@@ -1,2 +1,2 @@
 # login-page
-[DEMO] (https://eunisechen.github.io/login-page/)
+[Demo](https://eunisechen.github.io/login-page/)
