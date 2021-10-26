@@ -1,2 +1,2 @@
-# login-page
+# responsive login-page
 [Demo](https://eunisechen.github.io/login-page/)
