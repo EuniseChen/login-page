@@ -1,0 +1,29 @@
+* {
+  transition: 0.3s;
+}
+
+.login {
+  background     : url(./images/login.jpg) no-repeat;
+  background-size: cover;
+}
+
+.icon {
+  width      : 30px;
+  height     : 30px;
+  line-height: 30px;
+}
+
+.slogan {
+  background-color: rgba(63, 65, 65, 0.6);
+}
+
+.links {
+  bottom: 0;
+}
+
+@media (max-width:991px)  {
+  .login-form {
+    background-color: rgba(63, 65, 65, 0.6) !important;
+  }
+}
+
